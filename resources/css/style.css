@@ -1,0 +1,76 @@
+body{
+  font-family:Helvetica;
+  font-size:22px;
+  color:Seashell;
+  background-color:black;
+  text-align:center;
+}
+
+.heading{
+  border-bottom:1px solid seashell;
+  display:flex;
+  position:fixed;
+  text-align:center;
+  height:69px;
+  
+}
+
+.title{
+  height:50px;
+  border-left:10px;
+}
+
+.nav{
+  text-decoration:underline;
+}
+
+.main{
+}
+
+.photo{
+}
+
+.mission{
+}
+
+.main2{
+}
+
+.teamonth{
+}
+
+.fallberry{
+}
+
+.spiced{
+}
+
+.donuts{
+}
+
+.ave{
+}
+
+.bizarre{
+}
+
+.main3{
+}
+
+.loc{
+}
+
+.downtown{
+}
+
+.bay{
+}
+
+.Oak{
+}
+
+.footer{
+}
+
+.copy{
+}
