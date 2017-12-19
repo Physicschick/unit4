@@ -29,7 +29,7 @@ header{
   text-decoration:underline;
 }
 
-#main{
+#mission{
   height:700px;
   background-image:
     url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg")
@@ -37,9 +37,11 @@ header{
   padding-top:70px;
 }
 
-.mission{
-  text-align:vertical;
+.main{
   width:1200px;
+  margin:auto;
+  opacity:0.9;
+  padding-top:69px;
   
   
 }
