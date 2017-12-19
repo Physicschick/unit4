@@ -74,23 +74,73 @@ header{
 }
 
 .spiced{
-  height:200px;
-  width:300px;
+  padding:5px;
 }
 
-.donuts{
+.spiced img{
   height:200px;
-  width:300px;
+  margin:10px;
+  display:block;
+}
+
+.spiced span{
+  display:block;
+  padding:5px;
+  font-weight:bold;
+  text-align: center;
+}
+
+
+  
+.donuts{
+  padding:5px;
+  
+}
+  .donuts img{
+    height:200px;
+    margin:10px;
+    display:block;
+}
+  
+  .donuts span{
+    display:block;
+    padding:5px;
+    font-weight:bold;
+    text-align:center;
 }
 
 .ave{
+  padding:5px;
+}
+
+.ave img{
   height:200px;
-  width:300px;
+  margin:10px;
+  display:block;
+}
+
+.ave span{
+  display:block;
+  padding:5px;
+  font-weight:bold;
+  text-align:center;
 }
 
 .bizarre{
-  height: 200px;
-  width:300px;
+  padding:5px;
+}
+
+.bizarre img{
+  height:200px;
+  margin:10px;
+  display:block;
+}
+
+.bizarre span{
+  display:block;
+  padding:5px;
+  font-weight:bold;
+  text-align:center;
 }
 
 .main3{
