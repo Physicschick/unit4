@@ -31,11 +31,14 @@ body{
 
 .photo{
   height:700px;
+  background-image:
+    url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
 }
 
 .mission{
   text-align:vertical;
   width:1200px;
+  
   
 }
 
